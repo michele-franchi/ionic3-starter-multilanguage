@@ -1,5 +1,5 @@
 # About #
-Ionic 3 starter project with i18n library (ngx-translate).
+Ionic 3 starter project with i18n library (ngx-translate) and lazy loading.
 
 # Installation #
 
