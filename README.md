@@ -17,6 +17,6 @@ ionic platform add ios
 
 ## 2) Run on browser or device/emulator ##
 ```
-ionic server
+ionic serve
 ionic run android
 ```
